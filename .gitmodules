@@ -1,3 +1,6 @@
 [submodule "5CS037-Concepts-and-Technologies-of-AI"]
 	path = 5CS037-Concepts-and-Technologies-of-AI
 	url = https://github.com/Kamal-Dhital/5CS037-Concepts-and-Technologies-of-AI.git
+[submodule "5CS021-Numerical-Methods-and-Concurrency"]
+	path = 5CS021-Numerical-Methods-and-Concurrency
+	url = https://github.com/Kamal-Dhital/5CS021-Numerical-Methods-and-Concurrency.git
