@@ -4,3 +4,6 @@
 [submodule "5CS021-Numerical-Methods-and-Concurrency"]
 	path = 5CS021-Numerical-Methods-and-Concurrency
 	url = https://github.com/Kamal-Dhital/5CS021-Numerical-Methods-and-Concurrency.git
+[submodule "5CS019-Object-Oriented-Design-and-Programming"]
+	path = 5CS019-Object-Oriented-Design-and-Programming
+	url = https://github.com/Kamal-Dhital/5CS019-Object-Oriented-Design-and-Programming.git
